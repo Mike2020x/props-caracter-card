@@ -43,7 +43,7 @@ I learned abot proptypes en react and how to use it
 
 -React proptypes
 
-- [resource 1]([https://www.example.com](https://legacy.reactjs.org/docs/typechecking-with-proptypes.html)) - This helped to understand proptypes
+- [resource 1]((https://legacy.reactjs.org/docs/typechecking-with-proptypes.html)) - This helped to understand proptypes
 
 ## Author
 
