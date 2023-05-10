@@ -4,16 +4,16 @@ This is a solution to the props-caracter-card project of the Make It Real course
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Make It Real - Props caracter card](#make-it-real---props-caracter-card)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
 
 
 ## Overview
@@ -47,5 +47,5 @@ I learned abot proptypes en react and how to use it
 
 ## Author
 
-- Website - [Michael]([https://www.your-site.com](https://github.com/Mike2020x))
+- Website - [Michael](https://github.com/Mike2020x)
 
