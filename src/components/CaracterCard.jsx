@@ -10,7 +10,7 @@ const CharacterCard = (props) => (
       <div className="section">
         <h2>{props.name}</h2>
         <span className="status">
-          <span className={`status__icon status__alive`}></span>
+          <span className={`status__icon status__${props.status}`}></span>
           {props.status} - {props.specie}
         </span>
       </div>
@@ -27,13 +27,13 @@ const CharacterCard = (props) => (
 );
 
 CharacterCard.propTypes = {
-  name: PropTypes.string,
-  image: PropTypes.string,
-  status: PropTypes.string,
-  specie: PropTypes.string,
-  lastlocationname: PropTypes.string,
-  lastlocationurl: PropTypes.string,
-  firstseenname: PropTypes.string,
-  firstseenurl: PropTypes.string,
+  name: PropTypes.string.isRequired,
+  image: PropTypes.string.isRequired,
+  status: PropTypes.string.isRequired,
+  specie: PropTypes.string.isRequired,
+  lastlocationname: PropTypes.string.isRequired,
+  lastlocationurl: PropTypes.string.isRequired,
+  firstseenname: PropTypes.string.isRequired,
+  firstseenurl: PropTypes.string.isRequired,
 };
 export default CharacterCard;
